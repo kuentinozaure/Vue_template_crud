@@ -1,6 +1,6 @@
 # vue_crud
 
-> A Vue.js project
+> This project is a template crud for vue js, he use vuex, vue-ressource, vue-router
 
 ## Build Setup
 
